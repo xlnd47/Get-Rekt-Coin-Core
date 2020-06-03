@@ -1,0 +1,11 @@
+[Protocol]
+exec=getrektcoin-qt '%u'
+protocol=getrektcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

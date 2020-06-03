@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GetRektCoin Core
+Comment=GetRektCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem GetRektCoin peer-to-peer Netzwerk
+Comment[fr]=GetRektCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GetRektCoin, eşten eşe kriptografik sanal para birimi
+Exec=getrektcoin-qt %u
+Terminal=false
+Type=Application
+Icon=getrektcoin128
+MimeType=x-scheme-handler/getrektcoin;
+Categories=Office;Finance;

@@ -1,0 +1,22 @@
+[Unit]
+Description=GetRektCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=getrektcoincore
+Group=getrektcoincore
+
+Type=forking
+PIDFile=/var/lib/getrektcoind/getrektcoind.pid
+ExecStart=/usr/bin/getrektcoind -daemon -pid=/var/lib/getrektcoind/getrektcoind.pid \
+-conf=/etc/getrektcoincore/getrektcoin.conf -datadir=/var/lib/getrektcoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

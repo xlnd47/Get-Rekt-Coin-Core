@@ -1,0 +1,6 @@
+usr/local/bin/getrektcoin-qt usr/bin
+share/pixmaps/getrektcoin32.xpm usr/share/pixmaps
+share/pixmaps/getrektcoin16.xpm usr/share/pixmaps
+share/pixmaps/getrektcoin128.png usr/share/pixmaps
+debian/getrektcoin-qt.desktop usr/share/applications
+debian/getrektcoin-qt.protocol usr/share/kde4/services/
