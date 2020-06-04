@@ -58,6 +58,12 @@ The GetRektCoin Core repo's [root README](/README.md) contains relevant informat
 - [Dnsseed Policy](dnsseed-policy.md)
 - [Benchmarking](benchmarking.md)
 
+### Pools
+- [pool.getrekt.wtf](http://pool.getrekt.wtf)
+
+### Explorers
+- [explorer.getrekt.wtf](http://explorer.getrekt.wtf)
+
 ### Resources
 * Discuss on the [GetRektCoin Forum](https://getrektcoin.org/forum), in the Development & Technical Discussion board.
 * Discuss on [GetRektCoin Nation Discord](http://getrektcoinchat.org)
