@@ -1,7 +1,7 @@
 GetRektCoin Core 0.14.0
 =====================
 
-This is the official reference wallet for GetRektCoin digital currency and comprises the backbone of the GetRektCoin peer-to-peer network. You can [download GetRektCoin Core](https://github.com/xlnd47/Get-Rekt-Coin-Core/releases) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for GetRektCoin digital currency and comprises the backbone of the GetRektCoin peer-to-peer network. You can [download GetRektCoin Core](https://www.getrektcoin.org/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
@@ -57,12 +57,6 @@ The GetRektCoin Core repo's [root README](/README.md) contains relevant informat
 - [BIPS](bips.md)
 - [Dnsseed Policy](dnsseed-policy.md)
 - [Benchmarking](benchmarking.md)
-
-### Pools
-- [pool.getrekt.wtf](http://pool.getrekt.wtf)
-
-### Explorers
-- [explorer.getrekt.wtf](http://explorer.getrekt.wtf)
 
 ### Resources
 * Discuss on the [GetRektCoin Forum](https://getrektcoin.org/forum), in the Development & Technical Discussion board.
