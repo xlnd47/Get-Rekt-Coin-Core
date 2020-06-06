@@ -60,6 +60,8 @@ The GetRektCoin Core repo's [root README](/README.md) contains relevant informat
 
 ### Pools
 - [pool.getrekt.wtf](http://pool.getrekt.wtf)
+- [0769.it](https://www.0769.it/)
+- [miningpool.host](https://miningpool.host/)
 
 ### Explorers
 - [explorer.getrekt.wtf](http://explorer.getrekt.wtf)
