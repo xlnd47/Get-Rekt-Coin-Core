@@ -65,6 +65,8 @@ The GetRektCoin Core repo's [root README](/README.md) contains relevant informat
 
 ### Explorers
 - [explorer.getrekt.wtf](http://explorer.getrekt.wtf)
+- [0769.it](https://www.0769.it/explorer/GRC)
+- [miningpool.host](https://miningpool.host/explorer/GRC)
 
 ### Resources
 * Discuss on the [GetRektCoin Forum](https://getrektcoin.org/forum), in the Development & Technical Discussion board.
